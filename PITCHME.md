@@ -255,7 +255,7 @@ Type `.exit` to get out of the node REPL.
 
 ## So What's This All _Mean_?
 
-![Monty Python policeman saying "All right, all right, what's all this then?"](assets/img/whats-all-this-then.jpg)
+@img[span-60](assets/img/whats-all-this-then.jpg)
 
 ---
 
