@@ -43,7 +43,7 @@ Your code can then pull in those dependencies, and even export code for other mo
 @snapend
 
 @snap[span-30 south]
-![Lego Vultron](./assets/img/vultron.compressed.jpg)
+![Lego Vultron](./assets/img/vultron.jpg)
 @snapend
 
 ---
@@ -255,7 +255,7 @@ Type `.exit` to get out of the node REPL.
 
 ## So What's This All _Mean_?
 
-![Monty Python policeman saying "All right, all right, what's all this then?"](./assets/img/whats-all-this-then.jpg)
+![Monty Python policeman saying "All right, all right, what's all this then?"](assets/img/whats-all-this-then.jpg)
 
 ---
 
