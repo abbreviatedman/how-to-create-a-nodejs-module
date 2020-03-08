@@ -2,6 +2,9 @@
 
 Or: How I Learned To Stop Worrying And Love Loosely Coupled Code
 
+@snap[text-06 south]
+(Based on [Digital Ocean's tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-node-js-module) of the same name.)
+@snapend
 ---
 
 ## Prologue: The Why And The What
